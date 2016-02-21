@@ -19,6 +19,7 @@
 #include <stdio.h>
 int main(int argc, const char *argv[])
 {
-  printf("Test\n");
+  printf("Test 1\n");
+  printf("Test 2\n");
   return 0;
 }
